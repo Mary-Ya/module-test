@@ -1,8 +1,8 @@
 {
-  "name": "ngx-auth",
+  "name": "test-modles",
   "version": "4.0.0",
-  "description": "Angular 6+ Authentication module",
-  "repository": "https://github.com/serhiisol/ngx-auth",
+  "description": "Angular 4-5+ Authentication module",
+  "repository": "https://github.com/Mary-Ya/module-test",
   "keywords": [
     "angular2",
     "angular4",
@@ -10,7 +10,7 @@
     "typescript",
     "authentication"
   ],
-  "author": "Serhii Sol",
+  "author": "",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": "5.2.0",
