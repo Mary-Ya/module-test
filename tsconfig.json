@@ -9,6 +9,13 @@
     "noEmitOnError": true,
     "noImplicitAny": false,
     "rootDir": ".",
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "*",
+        "dist/*"
+      ]
+    },
     "sourceMap": true,
     "target": "es5",
     "lib": ["es6", "dom"],
