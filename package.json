@@ -10,18 +10,19 @@
     "typescript",
     "authentication"
   ],
+  "main": "dist/index.d.ts",
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "5.2.0",
-    "@angular/router": "5.2.0"
+    "@angular/common": "^5.5.2",
+    "@angular/router": "^5.5.2"
   },
   "devDependencies": {
-    "@angular/core": "5.2.0",
     "@angular/cli": "1.6.5",
-    "@angular/compiler-cli": "5.2.0",
-    "@angular/compiler": "5.2.0",
-    "@angular/language-service": "5.2.0",
+    "@angular/compiler": "^5.2.11",
+    "@angular/compiler-cli": "^5.2.11",
+    "@angular/core": "^5.2.11",
+    "@angular/language-service": "^5.2.11",
     "@types/jasmine": "2.8.7",
     "@types/node": "10.0.4",
     "awesome-typescript-loader": "5.0.0",
