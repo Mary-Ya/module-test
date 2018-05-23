@@ -29,4 +29,4 @@ TestModule.ctorParameters = () => [];
  */
 
 export { TestModule };
-//# sourceMappingURL=test-modles.js.map
+//# sourceMappingURL=module-test.js.map

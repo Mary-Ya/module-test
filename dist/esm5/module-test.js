@@ -12,4 +12,4 @@ TestModule.decorators = [
 TestModule.ctorParameters = function () { return []; };
 
 export { TestModule };
-//# sourceMappingURL=test-modles.js.map
+//# sourceMappingURL=module-test.js.map
