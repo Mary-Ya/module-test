@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "file": "test-modles.umd.js",
+  "sources": [
+    "ng://test-modles/out/test.module.ts"
+  ],
+  "sourcesContent": [
+    "import { NgModule } from '@angular/core';\n\n@NgModule({\n  \n})\nexport class TestModule {\n  constructor() {\n    console.log('TEST IS INSTALLED');\n  }\n}\n"
+  ],
+  "names": [
+    "NgModule"
+  ],
+  "mappings": ";;;;;;AAAA,IAAA,UAAA,kBAAA,YAAA;IAME,SAAF,UAAA,GAAA;QACI,OAAO,CAAC,GAAG,CAAC,mBAAmB,CAAC,CAAC;KAClC;;;;IANH,EAAA,IAAA,EAACA,aAAQ,EAAT,IAAA,EAAA,CAAU,EAET,EAFD,EAAA;;;;;;;;;;;;;;"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "test-modles",
+  "version": "4.0.0",
+  "description": "Angular 4-5+ Authentication module",
+  "repository": "https://github.com/Mary-Ya/module-test",
+  "keywords": [
+    "angular2",
+    "angular4",
+    "components",
+    "typescript",
+    "authentication"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "5.2.0",
+    "@angular/router": "5.2.0"
+  },
+  "devDependencies": {
+    "@angular/core": "5.2.0",
+    "@angular/cli": "1.6.5",
+    "@angular/compiler-cli": "5.2.0",
+    "@angular/compiler": "5.2.0",
+    "@angular/language-service": "5.2.0",
+    "@types/jasmine": "2.8.7",
+    "@types/node": "10.0.4",
+    "awesome-typescript-loader": "5.0.0",
+    "jasmine-core": "3.1.0",
+    "karma": "2.0.2",
+    "karma-jasmine": "1.1.2",
+    "karma-phantomjs-launcher": "1.0.4",
+    "karma-sourcemap-loader": "0.3.7",
+    "karma-spec-reporter": "0.0.32",
+    "karma-webpack": "3.0.0",
+    "ng-packagr": "2.4.2",
+    "reflect-metadata": "0.1.12",
+    "tslint": "5.10.0",
+    "typescript": "2.7.2",
+    "webpack": "4.8.0",
+    "webpack-dev-server": "3.1.4",
+    "zone.js": "^0.8.26"
+  },
+  "main": "bundles/test-modles.umd.js",
+  "module": "esm5/test-modles.js",
+  "es2015": "esm2015/test-modles.js",
+  "typings": "test-modles.d.ts",
+  "metadata": "test-modles.metadata.json",
+  "dependencies": {
+    "tslib": "^1.7.1"
+  }
+}
